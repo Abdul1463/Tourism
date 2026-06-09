@@ -1,0 +1,42 @@
+.bg-container{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/ocean.jpg");
+    height: 100vh;
+    
+    background-size: cover;
+    
+    
+}
+.card1
+{
+    text-align: center;
+    background-color: white;
+    width: 100vw;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    padding: 5px;
+    
+    
+}
+.c1{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.mainhead{
+    color: black;
+    font-family: "roboto";
+    font-weight: bold;
+}
+.para
+{
+    color: gray;
+}
+.button
+{
+    background-color: rgb(13, 158, 206);
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    border: none;
+    
+}

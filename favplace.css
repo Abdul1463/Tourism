@@ -1,0 +1,42 @@
+.fav-place-bg-container  
+{
+    background-image: url("https://d2clawv67efefq.cloudfront.net/ccbp-static-website/towerbg.png");
+    height: 100vh;
+    background-size: cover; 
+}
+.fav-head{
+  color: white;
+  font-family: "Roboto";
+  font-size: 28px;
+  font-weight: bold;
+  padding: 24px;
+}
+.fav-place-card{
+  background-color: white;
+  border-radius: 8px;
+  padding: 16px;
+  margin: 15px;
+}
+
+.fav-place-head{
+  color: #0f0e46;
+  font-family: "Roboto";
+  font-size: 23px;
+  font-weight: bold;
+
+}
+.fav-place-des{
+    
+    color: #6c6b70;
+    font-family: "Roboto";
+    font-size: 13px;
+}
+.fav-place-img
+{
+    height: 100px;
+    width: 100px;
+    margin: 15px;
+    margin-left: 20px;
+    border-radius: 8px;
+
+}
